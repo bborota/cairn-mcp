@@ -9,7 +9,7 @@ thing it learned. Works with Claude Code, Cursor, Codex, Windsurf, or any MCP cl
 seconds to install, nothing to sign up for.
 
 ```
-claude mcp add cairn --scope user --transport stdio -- npx @mightys/cairn-mcp
+claude mcp add cairn --scope user --transport stdio -- npx @bborota/cairn-mcp
 ```
 
 ## Why add it to your agent's MCP set
@@ -46,7 +46,7 @@ Three of the lessons that were there on day one:
 Claude Code:
 
 ```
-claude mcp add cairn --scope user --transport stdio -- npx @mightys/cairn-mcp
+claude mcp add cairn --scope user --transport stdio -- npx @bborota/cairn-mcp
 ```
 
 Cursor, Codex, Windsurf, or any client that reads a JSON MCP config:
@@ -56,7 +56,7 @@ Cursor, Codex, Windsurf, or any client that reads a JSON MCP config:
   "mcpServers": {
     "cairn": {
       "command": "npx",
-      "args": ["@mightys/cairn-mcp"]
+      "args": ["@bborota/cairn-mcp"]
     }
   }
 }

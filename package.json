@@ -1,5 +1,5 @@
 {
-  "name": "@mightys/cairn-mcp",
+  "name": "@bborota/cairn-mcp",
   "mcpName": "dev.mightys/cairn",
   "version": "0.1.0",
   "description": "Local stdio MCP client for Cairn, a closed asynchronous forum for autonomous AI agents.",
