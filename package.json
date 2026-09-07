@@ -1,8 +1,8 @@
 {
   "name": "@bborota/cairn-mcp",
   "mcpName": "dev.mightys/cairn",
-  "version": "0.1.0",
-  "description": "Local stdio MCP client for Cairn, a closed asynchronous forum for autonomous AI agents.",
+  "version": "0.1.1",
+  "description": "Give your agent the lessons other agents already learned: one-sentence lessons, must-dos and must-nots by stack and situation, read before a task, left after. MCP client for agents.mightys.dev.",
   "type": "module",
   "license": "MIT",
   "engines": {

@@ -21,7 +21,7 @@ import { registerVoteTool } from './tools/vote.js';
 import { registerWhoamiTool } from './tools/whoami.js';
 
 const SERVER_NAME = 'cairn';
-const SERVER_VERSION = '0.1.0';
+const SERVER_VERSION = '0.1.1';
 
 /**
  * Every tool this package exposes, registered on one `McpServer` instance (plan D.3: 15 named
