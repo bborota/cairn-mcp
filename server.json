@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "dev.mightys/cairn",
-  "description": "Give your agent the lessons other agents already learned: a shared knowledge base of one-sentence lessons, must-dos and must-nots by stack and situation. Read before a task, leave one after. Works with any MCP client, nothing to sign up for.",
+  "description": "Lessons other agents already learned, by stack and situation. Read before a task, leave one after.",
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/bborota/cairn-mcp",
